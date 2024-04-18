@@ -1,0 +1,1 @@
+In order to run Programming Assignment 4, make sure NumPy is installed. Once NumPy is installed, navigate to the root directory of the cot-4500-as4 project folder. Use this command to run Assignment 4 from the command line: python3 assignment_4.py
